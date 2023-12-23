@@ -1,6 +1,9 @@
 samples/*
 *.sqlite
 
+#local_files
+local/*
+
 # Operating system
 .DS_Store
 
